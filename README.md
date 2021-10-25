@@ -73,6 +73,17 @@ We learned a lot about what goes into game design, from the game engine we choos
 
 We look forward to building on this story more with our nonprofit partner Control Alt Delete.
 
+# Notes on Judging Criteria
+
+Visual novels represent a rapidly growing niche market that has seen a growth in consumption in 29.2% in the past year, with only a 12.2% increase of titles released in the same period. In 2017, there was a surge in visual novels being translated and created—not just from Japan, but all over the world. That means there’s a market eager to enjoy them, no matter how niche they are. (cited: https://www.route59games.com/how-do-you-explain-visual-novels-in-a-fundraising-pitch-to-investors-who-dont-know-what-vns-are/)
+
+Because they can be uploaded to popular websites like itch.io for viewing, playing, and purchasing, this will offer more publicity to the issue Control Alt Delete addresses and help funnel people who otherwise would not have been aware of the issue or the nonprofit organization.
+
+To ensure that there are no barriers to playing the game, we did not implement a secure login system, which would deter people from playing. The game can be implemented on a website for people to play directly from. There is no confidential or information that needs to be secured for this game.
+
+Because everything is open source, any nonprofit can use the same tools and download and modify this story to suit their needs. A distributable version can be created here:
+https://www.renpy.org/doc/html/build.html
+
 # Notes on Game Design 
 
 ## Image / Audio / Font Source
